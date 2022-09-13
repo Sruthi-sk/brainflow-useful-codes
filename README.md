@@ -6,3 +6,5 @@ Files
 - Real-time streaming of all channels
 - Server-client program ( Connect with OpenSesame)*
 - Neuromodulation (Check Auditory-Neuromodulation repository)
+
+*yet to be uploaded
